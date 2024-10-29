@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<enter your URL here>
+https://deploy-this-repo-carloc3005-ijonx4kdw.vercel.app/
 
 
